@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_x"
 	"time"
 )
 

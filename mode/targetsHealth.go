@@ -3,8 +3,8 @@ package mode
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/griesbacher/check_prometheus/helper"
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_prometheus/helper"
+	"github.com/Griesbacher/check_x"
 	"net/url"
 	"path"
 	"time"

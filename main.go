@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/griesbacher/check_prometheus/helper"
-	"github.com/griesbacher/check_prometheus/mode"
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_prometheus/helper"
+	"github.com/Griesbacher/check_prometheus/mode"
+	"github.com/Griesbacher/check_x"
 	"github.com/urfave/cli"
 	"os"
 	"time"
