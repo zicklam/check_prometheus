@@ -30,8 +30,8 @@ func startTimeout() {
 func main() {
 	app := cli.NewApp()
 	app.Name = "check_prometheus"
-	app.Usage = "Checks different prometheus stats as well the data itself\n   Copyright (c) 2017 Philip Griesbacher\n   https://github.com/Griesbacher/check_prometheus"
-	app.Version = "0.0.1"
+	app.Usage = "Checks different prometheus stats as well the data itself\n   Copyright (c) 2017 Philip Griesbacher\n   https://github.com/Griesbacher/check_prometheus\n    Fixed Release:\n   https://github.com/zicklam/check_prometheus""
+	app.Version = "0.0.1fz"
 	flagAddress := cli.StringFlag{
 		Name:        "address",
 		Usage:       "Prometheus address: Protocol + IP + Port.",
