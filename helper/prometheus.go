@@ -2,7 +2,7 @@ package helper
 
 import (
 	"fmt"
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_x"
 	"github.com/prometheus/client_golang/api"
 	"github.com/prometheus/client_golang/api/prometheus/v1"
 	"github.com/prometheus/common/model"
